@@ -1,0 +1,64 @@
+body {
+    background-color: aliceblue;
+
+}
+
+header {
+    background-color: azure;
+
+}
+
+a:active {
+    color: aqua;
+}
+
+hr {
+    width: 400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+dd::before {
+    content: "➜ ";
+
+}
+
+span {
+
+    font-weight: bold;
+}
+
+a {
+    color: red;
+}
+
+input {
+    background-color: burlywood;
+    color: white;
+}
+
+input:hover {
+    background-color: bisque;
+    color: black;
+}
+
+.hev::before {
+    content: "➜ ";
+    color: black;
+
+}
+
+.hev:hover {
+    color: brown;
+}
+
+.hev {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    background-color: azure;
+}

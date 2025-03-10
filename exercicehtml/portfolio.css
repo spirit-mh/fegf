@@ -1,0 +1,8 @@
+div {
+    background-color: black;
+    height: 300px;
+    width: 600px;
+    display: block;
+    margin: 10px;
+    display: inline-block;
+}

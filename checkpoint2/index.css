@@ -1,0 +1,75 @@
+body {
+    background-color: blanchedalmond;
+    font-family: "Century Gothic";
+}
+
+header {
+    background-color: rgb(198, 190, 190);
+}
+
+hr {
+    width: 40em;
+    border: 1px solid black;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: brown;
+    text-decoration: underline dashed brown;
+    padding-left: 1cm;
+}
+
+a {
+    text-decoration: none;
+    color: grey;
+    background-color: white;
+    border-radius: 8px;
+
+}
+
+a:hover {
+    background-color: blueviolet;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-family: monospace;
+}
+
+video {
+    display: block;
+    margin: auto;
+}
+
+img {
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+
+.forimg {
+    font-size: small;
+    font-style: italic;
+    text-align: center;
+}
+
+aside {
+    width: 50%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    float: right;
+    box-shadow: inset 5px 0 5px -5px #29627e;
+    font-style: italic;
+    color: #29627e;
+    height: 80em;
+}
+
+textarea {
+    width: 60em;
+    height: 400px;
+}
